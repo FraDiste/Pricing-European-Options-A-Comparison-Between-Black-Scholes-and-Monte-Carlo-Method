@@ -28,5 +28,17 @@ In this project:
 
 ---
 
-## 📂 Repository Structure
+## ⚙️ Requirements
+
+The code relies on the following Python libraries:
+
+- `numpy`  
+- `scipy`  
+- `matplotlib`  
+- `IPython.display` (for Colab/Notebook output)
+
+You can install them with:
+
+```bash
+pip install -r requirements.txt
 

@@ -5,3 +5,9 @@ This project compares two fundamental approaches to European option pricing: the
 Implemented in Python, it illustrates how both methods can be applied to compute call and put option prices, highlighting differences in accuracy, convergence, and sensitivity to volatility. 
 While Black–Scholes provides an elegant closed-form solution, Monte Carlo offers a flexible simulation-based alternative that approaches the theoretical value as the number of simulations increases.
 The repository includes code, figures, and a report that explains the theoretical background and presents numerical results.
+
+# Repository Structure
+
+1. [Pricing European Options - Comparison 1](Pricing_European_Options_A_Comparison1.ipynb)
+2. [Pricing European Options - Comparison 2](Pricing_European_Options_A_Comparison2.ipynb)
+3. [Lowercase file](pricing_european_options_a_comparison3.ipynb)
